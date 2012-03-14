@@ -27,14 +27,27 @@ Ventajas
 
 ---
 
-# Multiplataform
+# Multiplataforma
 
 ![multiplatform](multiplatform2.png)
-
 
 # Presenter Notes
 
 - web, escritorio, móvil, embebido
+
+
+---
+
+# Muchas bibliotecas
+
+.notes: **19771 packages en pypi**
+
+![pythoneggs](pythoneggs.jpg)
+
+
+# Presenter Notes
+
+- Beneficios de pip y easy_install
 
 
 ---
@@ -72,3 +85,27 @@ Mitos
 # Hosting sólo para php
 
 ![amazon](amazon.png)
+
+
+---
+
+# ¡Gracias!
+
+.qr: 450|http://pedroburon.info/pqpythonstartup
+
+[https://github.com/pedroburon/pqpythonstartup](https://github.com/pedroburon/pqpythonstartup)
+
+[http://witoi.com](http://witoi.com)
+
+
+---
+
+# Presentación realizada con **landslide**
+
+[https://github.com/adamzap/landslide](https://github.com/adamzap/landslide)
+
+Para instalar 
+
+    pip install landslide
+
+.notes: **Aplicación hecha en python**
