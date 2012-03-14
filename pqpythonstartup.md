@@ -1,4 +1,4 @@
-¿Por qué python en una startup?
+¿Por qué Python en una startup?
 ===============================
 
 
